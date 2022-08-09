@@ -1,0 +1,1 @@
+First lines added to file1 before branching
